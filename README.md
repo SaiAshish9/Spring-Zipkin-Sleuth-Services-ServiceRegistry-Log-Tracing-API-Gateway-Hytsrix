@@ -17,5 +17,5 @@ Using timeout , we can check whether a particular service is working or not. A f
 
 Using Hystrix Circuit Breaker we can visualise how much the api endpoints are failing and how much are getting successful. And which microservice is not working.
 
-Repeated configurations can be placed at config service.
+Repeated configurations can be placed at config service as it is not a best practice to include them at all the services.
 ```

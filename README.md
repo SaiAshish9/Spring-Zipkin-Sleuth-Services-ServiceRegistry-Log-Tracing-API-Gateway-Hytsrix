@@ -39,5 +39,10 @@ For centralised logging frameframework we can also implement elk stack
 ```
 
 ```
-For 2 microservices we can easily make api calls but when there are multiple microservices exchanging info. b/w them becomes different
+For 2 microservices we can easily make api calls but when there are multiple microservices
+exchanging info. b/w them becomes difficult . And also scaling will not be so easy.
+```
+
+```
+We can create a service registry and it will maintain all the endpoints for it. It will have information about all the microservices including their status updated , url info. and port no.
 ```

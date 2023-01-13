@@ -37,3 +37,7 @@ is getting called , traceid ( unique id along the entire request , same for all 
  
 For centralised logging frameframework we can also implement elk stack
 ```
+
+```
+For 2 microservices we can easily make api calls but when there are multiple microservices exchanging info. b/w them becomes different
+```

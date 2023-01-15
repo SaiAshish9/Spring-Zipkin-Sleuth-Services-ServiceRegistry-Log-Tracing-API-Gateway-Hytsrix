@@ -46,3 +46,7 @@ exchanging info. b/w them becomes difficult . And also scaling will not be so ea
 ```
 We can create a service registry and it will maintain all the endpoints for it. It will have information about all the microservices including their status updated , url info. and port no.
 ```
+
+```
+Requests will come to API Gateway first and based on url pattern , they will be traversed.
+```

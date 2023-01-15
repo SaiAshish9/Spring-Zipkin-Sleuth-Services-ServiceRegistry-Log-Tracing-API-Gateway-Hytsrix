@@ -50,3 +50,7 @@ We can create a service registry and it will maintain all the endpoints for it. 
 ```
 Requests will come to API Gateway first and based on url pattern , they will be traversed.
 ```
+
+```
+application.yml can be used for the ApplicationContext . Whenever the application starts, spring boot will make use of this file.
+```

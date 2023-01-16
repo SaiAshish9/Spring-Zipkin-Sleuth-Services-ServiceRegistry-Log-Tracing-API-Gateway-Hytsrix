@@ -76,5 +76,14 @@ java -jar zipkin.jar
 
 <img width="1792" alt="Screenshot 2023-01-17 at 2 11 19 AM" src="https://user-images.githubusercontent.com/43849911/212762444-20d68819-53a2-4e5d-b22c-00e0eaff6dd9.png">
 
-
 <img width="1792" alt="Screenshot 2023-01-17 at 2 12 26 AM" src="https://user-images.githubusercontent.com/43849911/212762603-405abf3e-f66b-42c6-a81d-50210ce52cc9.png">
+
+<img width="1788" alt="Screenshot 2023-01-17 at 2 13 27 AM" src="https://user-images.githubusercontent.com/43849911/212762721-0545c35b-790a-44d5-be53-312c6f43f7c9.png">
+
+```
+fallback will trigger when department service doesn't work via hystrix circuit breaker
+```
+
+<img width="1787" alt="Screenshot 2023-01-17 at 2 14 54 AM" src="https://user-images.githubusercontent.com/43849911/212762887-bd9cb702-6164-45c9-acbe-bece2a35af13.png">
+
+<img width="1791" alt="Screenshot 2023-01-17 at 2 15 28 AM" src="https://user-images.githubusercontent.com/43849911/212762949-68053d0e-592a-45c4-a5fb-76a45eef2c94.png">

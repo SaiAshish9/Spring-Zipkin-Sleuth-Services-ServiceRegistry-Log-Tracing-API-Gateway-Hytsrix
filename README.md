@@ -104,6 +104,6 @@ fallback will trigger when department service doesn't work via hystrix circuit b
 
 <img width="1439" alt="Screenshot 2023-01-17 at 2 23 10 AM" src="https://user-images.githubusercontent.com/43849911/212764010-5befab42-0f14-4c4c-8154-55136608e9d6.png">
 
-<img width="846" alt="Screenshot 2023-01-17 at 2 24 52 AM" src="https://user-images.githubusercontent.com/43849911/212764285-72bcedd9-20e8-4dc6-8500-0ce9e01d841d.png">
+<img width="1203" alt="Screenshot 2023-01-17 at 2 32 34 AM" src="https://user-images.githubusercontent.com/43849911/212765211-026c20a4-34f9-495a-810e-e1e72490ea34.png">
 
 <img width="1731" alt="Screenshot 2023-01-17 at 2 30 24 AM" src="https://user-images.githubusercontent.com/43849911/212765003-c321807a-622e-41f0-8951-7c50cab2b273.png">

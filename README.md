@@ -61,3 +61,5 @@ https://zipkin.io/pages/quickstart
 curl -sSL https://zipkin.io/quickstart.sh | bash -s
 java -jar zipkin.jar
 ```
+
+<img width="1789" alt="Screenshot 2023-01-17 at 1 50 52 AM" src="https://user-images.githubusercontent.com/43849911/212759818-e7c37481-6a6a-4d81-81f7-c3463fc4ed6c.png">

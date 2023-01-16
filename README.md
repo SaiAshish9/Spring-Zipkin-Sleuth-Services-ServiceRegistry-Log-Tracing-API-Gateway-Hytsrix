@@ -54,3 +54,10 @@ Requests will come to API Gateway first and based on url pattern , they will be 
 ```
 application.yml can be used for the ApplicationContext . Whenever the application starts, spring boot will make use of this file.
 ```
+
+https://zipkin.io/pages/quickstart
+
+```
+curl -sSL https://zipkin.io/quickstart.sh | bash -s
+java -jar zipkin.jar
+```

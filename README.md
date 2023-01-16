@@ -91,3 +91,15 @@ fallback will trigger when department service doesn't work via hystrix circuit b
 <img width="1781" alt="Screenshot 2023-01-17 at 2 16 09 AM" src="https://user-images.githubusercontent.com/43849911/212763058-1c799330-9120-46ef-a14d-e1a7549cfb3a.png">
 
 <img width="1212" alt="Screenshot 2023-01-17 at 2 18 08 AM" src="https://user-images.githubusercontent.com/43849911/212763374-5b954c51-a4a8-4822-9038-602d0b7deacf.png">
+
+<img width="718" alt="Screenshot 2023-01-17 at 2 19 30 AM" src="https://user-images.githubusercontent.com/43849911/212763582-b9c66e10-aa63-4268-9096-d0ba774f4fc5.png">
+
+<img width="934" alt="Screenshot 2023-01-17 at 2 20 26 AM" src="https://user-images.githubusercontent.com/43849911/212763675-eaa2f98a-d36c-491c-adb9-67a05e3d9a67.png">
+
+<img width="1061" alt="Screenshot 2023-01-17 at 2 21 09 AM" src="https://user-images.githubusercontent.com/43849911/212763762-b5de2b45-b168-4fd6-8ce2-66fff69a147b.png">
+
+<img width="895" alt="Screenshot 2023-01-17 at 2 21 35 AM" src="https://user-images.githubusercontent.com/43849911/212763820-5da1da39-e89a-451d-b268-0b84680f1dab.png">
+
+<img width="940" alt="Screenshot 2023-01-17 at 2 21 51 AM" src="https://user-images.githubusercontent.com/43849911/212763857-97a6c559-685b-4794-a7e4-e5487293057c.png">
+
+<img width="1439" alt="Screenshot 2023-01-17 at 2 23 10 AM" src="https://user-images.githubusercontent.com/43849911/212764010-5befab42-0f14-4c4c-8154-55136608e9d6.png">

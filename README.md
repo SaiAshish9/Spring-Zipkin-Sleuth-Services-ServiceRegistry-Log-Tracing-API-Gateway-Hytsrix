@@ -66,3 +66,7 @@ java -jar zipkin.jar
 
 <img width="599" alt="Screenshot 2023-01-17 at 1 52 50 AM" src="https://user-images.githubusercontent.com/43849911/212760106-22ca8ca1-207f-417a-a446-3ba3d16321cf.png">
 
+<img width="1078" alt="Screenshot 2023-01-17 at 1 54 08 AM" src="https://user-images.githubusercontent.com/43849911/212760299-6f21cc11-27a0-4326-9cd8-86c7c050e02f.png">
+
+
+

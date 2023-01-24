@@ -33,7 +33,10 @@ failed and where the request is traversing.
 For this , we can make use of sleuth and zipkin server , zipkin client at the services.
 
 Sleuth provides multiple flags like service id using which we can identify which of the services
-is getting called , ( service ) application name, traceid ( unique id along the entire request , same for all the services ) , spanid ( one span id for each and every service) and export flag.
+is getting called , ( service ) application name, traceid ( unique id along the entire request , same for all the services ) , spanid ( one span id for each and every service) and exportable flag.
+ 
+traceId: It is a unique Id assigned to the request and is the same across all the microservices. spanId: It is a unique Id assigned to each operation. exportable: It is a boolean value and represents whether the log should be exported to Zipkin or not.
+ 
  
 For centralised logging frameframework we can also implement elk stack
 ```
